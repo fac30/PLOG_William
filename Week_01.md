@@ -154,4 +154,12 @@ You showed a great understanding of semantic HTML, flexbox vs grid, and forms. Y
 [Even better if]
 
 You could tackle some other learnings like DOM manipulation, dynamic content creation, project managing, git workflow... those could be just one or two lines with a brief code snippet, diagram or screenshot.
+
+```mermaid
+graph LR
+    A[Working Directory] -->|git add| B[Staging Area]
+    B -->|git commit| C[Local Repository]
+    C -->|git push| D[Remote Repository]
+```
+
 You could also edit your snippets and remove all that is not relevant for the topic you are explaining. There is no need to keep the code 100% original as it is on your project.
