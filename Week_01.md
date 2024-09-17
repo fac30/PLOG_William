@@ -144,5 +144,14 @@ Assessment
 
 Feedback (For CF's)
 [Course Facilitator name]
+
+Alexander
+
 [What went well]
+
+You showed a great understanding of semantic HTML, flexbox vs grid, and forms. Your snippets are clear and reinforce well your affirmations.
+
 [Even better if]
+
+You could tackle some other learnings like DOM manipulation, dynamic content creation, project managing, git workflow... those could be just one or two lines with a brief code snippet, diagram or screenshot.
+You could also edit your snippets and remove all that is not relevant for the topic you are explaining. There is no need to keep the code 100% original as it is on your project.
