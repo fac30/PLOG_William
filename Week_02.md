@@ -74,6 +74,16 @@ Would like to explore integration testing a bit more to combine all unit tests t
 Write tests for asynchronous functions.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Your progress log shows perfectly how you understood well all the topics introduced this week
+
 > [*Even better if*]
+
+Consider adding more code snippets to illustrate your points. For instance, when you mention "Project dependencies and scripts are written and listed in the package.json," you could include a brief excerpt from the package.json file.
+Aim for concise snippets that focus on a single concept, rather than longer code blocks covering multiple topics. This approach makes your progress log more focused and easier to follow.
+Remember, the goal is to provide clear, specific examples that support your learning journey without overwhelming the reader with too much information at once.
