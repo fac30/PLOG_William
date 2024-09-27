@@ -8,13 +8,55 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+- Develop a server using Express and TypeScript for backend applications
+```
+// app.ts
+// imports...
+const PORT = process.env.PORT || 5000;
+const app = express();
+// code...
+```
+- Identify the server’s role within a full stack application
+```
+// Handling requests:
+app.use('/api/quiz', quizRoutes);
+// direct to quiz route file in /src/routes/quizRoutes.ts
 
- ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+// Process the request
+// inside the route pass the controller to process the request
 
+router.get('/', getQuiz);
+
+// inside the controller in /src/controllers/quizController
+// process request and respond with a json object back to the client
+
+export const getQuiz = async (req: Request, res: Response) => {
+// code
+res.json(quiz)
+// error handling
+```
+
+- Understand the benefits of using TypeScript over JavaScript, such as improved code quality, enhanced developer productivity, and better tooling support 
+```
+// used type saftey to check inputs inside async function
+export const getCountries = async (req: Request, res: Response) => {
+// code
+}
+```
+### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
+- Learn the basic syntax and features of TypeScript
+(need to write more typescript to better understand its syntax and benefits)
+- Grasp the concept and purpose of RESTful APIs / Construct and implement RESTful APIs effectively
+- (will need to add more data and create more routes/controllers to have a better grasp on the idea of RESTful API and the design constraints of the interface to share and modify data from the database.
+```
+// currently only connected to the database and provided a test route '/countries' to fetch some data
+router.get('/', getCountries);
+// /src/controllers/getCountries.ts
+export const getCountries = async (req: Request, res: Response) => {
+  try {
+    const [rows] = await db.query('SELECT * FROM countries');
+    res.json(rows);
+```
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
 > [*What went well*]  
