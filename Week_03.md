@@ -58,6 +58,14 @@ export const getCountries = async (req: Request, res: Response) => {
     res.json(rows);
 ```
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Perfect code snippets, minimal and to the point.
+
 > [*Even better if*]
+
+There is no need to include generic learnings, like "Learn the basic syntax and features of TypeScript (need to write more typescript to better understand its syntax and benefits)" since this is never going to be checked in the future. Consider your PLog more like a cheatsheet for yourself, or even a place were you can redirect someone who is struggling with same things as you
