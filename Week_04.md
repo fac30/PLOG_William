@@ -81,6 +81,14 @@ A ```.env.template``` file is created in the backend to show how environment var
 Need to write documentation and perhaps create a diagram to describe the request and response loop of our project.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Great explanations and great code snippets. Quite concise and right to the point
+
 > [*Even better if*]
+
+
