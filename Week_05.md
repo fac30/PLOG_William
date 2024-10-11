@@ -8,12 +8,47 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+- Learn how to write and run unit tests for backend functionality using the Node testing suite and Postman.
+```
+describe('GET /countries', () => {
+  let server: http.Server;
+// code ...
+it('should return a list of countries.', async () => {
+    const mockData = [
+      {
+        id: 1,
+        country: 'France',
+        capital: 'Paris',
+        capital_difficulty: 'easy',
+        country_code: 'FR',
+      },
+// more code...
+```
+- Gain experience in using the Cypress testing library with React.
+```
+// including configuration and using the cypress app:
+describe("This is a sample test.", () => {
+  it("Visits localhost/5173", () => {
+    cy.visit("http://localhost:5173/");
+  });
+});
+```
+
+- Gain experience in deploying a full-stack web application to a cloud platform
+Deployed a database on RDS and backend server onto an EC2 instance. Automated deployment on Amplify.
+
+- Understand the differences between development, staging, and production environments.
+Created a staging branch to push changes which would then be merged into main branch for deployment.
+
+- Configure the necessary environment variables and settings for deployment
+Used IS_PRODUCTION environment variable to control the behaviour of route controllers.
+
+- Gain experience in using a continuous integration and deployment (CI/CD) pipeline
+Created workflows in .github/workflows to automate pull request processes.
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+- Would like to revisit creating routes and controlling data sent to the frontend.
+- Testing routes and functionality of the backend.
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
