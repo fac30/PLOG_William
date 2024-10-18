@@ -29,7 +29,7 @@ const getTutorById = (index: number) => {
   return allRows[index - 1];
 };
 ```
--Acquire skills in using SQLite to manage and query relational data efficiently
+- Acquire skills in using SQLite to manage and query relational data efficiently
 Created a database config file in the project database folder and a seeding file which would create and seed the database with data after running an npm script.
 Querying the database is placed in the models folder that is connected to controllers which are called based on the route from the request.
 
