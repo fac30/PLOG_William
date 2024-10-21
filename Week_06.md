@@ -41,6 +41,11 @@ Used sql syntax to create and insert data using a schema file.
 - Testing the crud operations similar to how it was done in the workshop to gain a better understanding of unit testing and eventually build towards integration testing for server routes.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+Looks like you built solid foundations on SQL
+
