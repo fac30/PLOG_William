@@ -77,6 +77,10 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 - testing
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+This is a great progress for your first week with PHP. It is also great how you always take into consideration testing, even if it is only as something you want to revisit in the near future.
