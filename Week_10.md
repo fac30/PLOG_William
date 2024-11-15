@@ -8,12 +8,32 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 
 ## Assessment
  ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+ - Setting up a developement environment for wordpress
+ - Learning the basics of building a theme using theme.json to control global and local elements.
+
+  ```
+   "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "border": {},
+    "color": {
+      "custom": false,
+      "palette": [
+        {
+          "color": "#ffffff",
+          "name": "Base",
+          "slug": "base"
+  // more config.
+   ```
+ - Explored the usage of plugins and started building a header and footer template using the elementor plugin.
+   ![image](https://github.com/user-attachments/assets/1e698694-8676-4724-a514-57569885e7d2)
+
 
  ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+- Find out how to build page templates that allows the user to resused for writing articles or posts.
+- Creating custom templates for the client to use.
+- Creating custom plugin functionality.
 
 ## Feedback (For CF's)
 > [**Course Facilitator name**]  
