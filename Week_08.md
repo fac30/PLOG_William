@@ -30,6 +30,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
  2. Writing more advanced middleware to have a stronger grasp of error handling for server routes.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good progress in testing different layers of the application (unit, integration) and implementing environment-based configuration. Strong focus on code organization and refactoring for better maintainability.
+
 > [*Even better if*]
+
+Include code examples of your tests and refactored middleware. Since deployment was mentioned as an achievement, show your environment configuration setup for Render and Netlify.
