@@ -36,6 +36,14 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 - Creating custom plugin functionality.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Basic understanding of WordPress theme development with theme.json configuration. Initial exploration of plugin functionality with Elementor.
+
 > [*Even better if*]
+
+Show your header/footer template implementation since you mentioned building them. Your struggles with page templates need specific examples of what you've tried so far.
