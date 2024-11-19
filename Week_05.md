@@ -51,6 +51,14 @@ Created workflows in .github/workflows to automate pull request processes.
 - Testing routes and functionality of the backend.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Basic understanding of testing setup with both unit tests and Cypress. Good grasp of environment separation and deployment workflow concepts.
+
 > [*Even better if*]
+
+Add more complex test examples, your current ones only show basic configuration. Since you mentioned struggling with routes and backend testing, show specific examples of what routes gave you trouble.
