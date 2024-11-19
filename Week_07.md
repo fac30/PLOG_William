@@ -45,6 +45,14 @@ to control access and usage of the cookies from the client.
     - Understand the data the frontend needs to transform the ui, such as the username or account name that can be used to display on the navbar.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good implementation of secure authentication with proper cookie configuration. Clear understanding of Passport.js local strategy and bcrypt for password handling.
+
 > [*Even better if*]
+
+Show the actual Passport.js strategy implementation you mentioned. Since you noted struggles with middleware error handling, include examples of your current error handling code that needs improvement.
