@@ -21,6 +21,10 @@ Do not fill in the feedback section. The Founders and Coders team will update th
 - improving the usage of frames and groups to make the components responsive and transform smoothly.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+
+Alexander
+
 > [*What went well*]  
-> [*Even better if*]
+
+I understand that this week is more about using the Wordpress platform than building solutions yourself. Good progress. Hopefully we will build some interesting plugins in the future.
